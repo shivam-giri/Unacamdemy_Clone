@@ -8,13 +8,11 @@
     height: 70px;
     align-items: center;
 }
-
 #headerBlock article nav .logoBlock { 
     flex-basis: 50%;
     display: flex;
     justify-content: flex-start;
 }
-
 #headerBlock article nav .menuBlock {
     flex-basis: 50%;
     display: flex;

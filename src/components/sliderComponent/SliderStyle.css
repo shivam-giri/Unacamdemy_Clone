@@ -1,0 +1,214 @@
+#sliderBlock article video{
+    width: 100%;
+    height: 620px;
+    object-fit: cover;
+    transform: translate(0px);
+    opacity: 1;
+    transition: transform 1200ms ease-out 0s,
+    opacity 1200ms ease-out 0s;
+    margin: auto;
+}
+#sliderBlock  article{
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+#sliderBock header{
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+}
+#contentSection{
+    display: flex;
+    margin-top: -474px;
+    margin-left: 111px;
+}
+#sliderBock #contentSection {
+    position: absolute;
+    top: 10%;
+    display: flex !important;
+}
+/****************LEFT SLIDER BLOCK CSS START HERE********************/
+#sliderBock .leftBlock{
+    flex-basis: 50%;
+    margin: 10px;
+    font-color: black;
+
+}
+.hgxCRc {
+    text-align: left;
+}
+.btLIxI {
+    display: flex;
+    flex-direction: column;
+    width: 515px;
+    height: 135px;
+    transform: translateX(0px);
+    opacity: 1;
+    will-change: transform;
+    overflow: hidden;
+    transition: transform 1000ms ease-in-out 1040ms, opacity 1000ms ease-in-out;
+}
+.hURmeT {
+    will-change: transform;
+    animation: 6000ms ease-in-out 3000ms infinite normal none running bJLols;
+}
+.dFNIFf {
+    animation: 6000ms ease-in-out 2400ms infinite normal none running ktCZuh;
+}
+.ioOCeT {
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 120%;
+    color: rgb(60, 72, 82);
+}
+.dFNIFl {
+    animation: 6000ms ease-in-out 4400ms infinite normal none running ktCZuh;
+}
+
+.dFNIFj {
+    animation: 6000ms ease-in-out 6400ms infinite normal none running ktCZuh;
+}
+
+.jTjBIE {
+    color: rgb(154, 175, 191);
+    margin-top: 24px;
+    transform: translateX(0px);
+    opacity: 1;
+    will-change: transform;
+    font-weight: normal;
+    width: 480px;
+    transition: transform 1000ms ease-in-out 1100ms, opacity 1000ms ease-in-out;
+}
+.bJWdKC {
+    margin-top: 100px;
+    float: left;
+    transform: translateX(0px);
+    opacity: 1;
+    will-change: transform;
+    transition: transform 1000ms ease-in-out 1200ms, opacity 1000ms ease-in-out;
+}
+.fNfkOb {
+    line-height: 150%;
+    font-size: 12px;
+    font-weight: normal;
+}
+.lnLoJR {
+    width: auto;
+    height: auto;
+    padding: 18px 32px;
+    font-size: 20px;
+}
+
+.hjNpzQ {
+    position: relative;
+    border: none;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: bold;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 176px;
+    height: 48px;
+    min-height: 48px;
+    color: rgb(255, 255, 255);
+    -webkit-user-drag: none;
+    user-select: none;
+    background-color: rgb(8, 189, 128);
+    transition: box-shadow 200ms ease-in-out 0s, transform 200ms ease-in-out 0s;
+}
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0px;
+}
+.jifyds {
+    display: flex;
+}
+.jwuTmf {
+    margin-top: 184px;
+    transform: translateX(0px);
+    opacity: 1;
+    will-change: transform;
+    transition: transform 1000ms ease-in-out 1300ms, opacity 1000ms ease-in-out;
+}
+.ifkdOr {
+    font-size: 16px;
+    line-height: 150%;
+    color: rgb(128, 128, 128);
+    padding-right: 12px;
+}
+.fNfkOb {
+    line-height: 150%;
+    font-size: 12px;
+    font-weight: normal;
+}
+constructed stylesheet
+a {
+    background-color: transparent;
+}
+
+.jnBkJn {
+    font-size: 16px;
+    line-height: 150%;
+    font-weight: 600;
+    color: rgb(8, 189, 128);
+    padding: 0px 12px;
+}
+
+.djTkHi {
+    margin-top: 86px;
+    transform: translateX(0px);
+    opacity: 1;
+    will-change: transform;
+    animation: 800ms ease-in-out 2400ms infinite alternate none running hcimuG;
+    transition: transform 1000ms ease-in-out 1400ms, opacity 1000ms ease-in-out;
+}
+
+/****************LEFT SLIDER BLOCK CSS END HERE********************/
+
+
+
+/****************RIGHT SLIDER BLOCK CSS START HERE********************/
+
+#sliderBock .rightBlock{
+    flex-basis: 50%;
+    margin: 10px;
+}
+
+.hFpehL {
+    background-image: url('/rightSlider1.svg');
+}
+
+.hOYYau {
+    background-image: url('/rightSlider2.svg');
+
+}
+.dSrlDq {
+    background-image: url('/rightSlider3.svg');
+
+}
+
+.SliderItems__Card-sc-1nufwz4-15{
+    height: 80px;
+    width: 296px;
+    background-size: cover;
+    transform: translateY(0px);
+    opacity: 1;
+    will-change: transform;
+    margin-top: 16px;
+    box-shadow: rgba(221, 230, 237, 0.4) 0px 16px 32px 0px;
+    background-repeat: no-repeat;
+    transition: transform 1000ms ease-in-out 1200ms, opacity 1000ms ease-in-out;
+    animation: 6000ms ease-in-out 2400ms infinite normal none running iPyyOv;
+}
+.cjXxqv {
+    transform: rotate(-90deg);
+}
+
+/****************RIGHT SLIDER BLOCK CSS ENDS HERE********************/
